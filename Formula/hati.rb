@@ -1,9 +1,9 @@
 class Hati < Formula
   desc "Control your own Codex sessions from an iPhone over SSH"
   homepage "https://github.com/tamoharu/hati-setup"
-  url "https://github.com/tamoharu/hati-setup/releases/download/v0.4.1/hati-0.4.1.tar.gz"
-  version "0.4.1"
-  sha256 "e589ac1c58e488ece5076fe33c567b4859b3d6d2e124ee6c434b0de47ca7b54e"
+  url "https://github.com/tamoharu/hati-setup/releases/download/v0.4.2/hati-0.4.2.tar.gz"
+  version "0.4.2"
+  sha256 "ba53bad9a65d39d599999aed14ea285d210597cbe7c0634d63fc77a8688c7908"
 
   depends_on "node@24"
   depends_on "tmux"
